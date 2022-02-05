@@ -1,1 +1,2 @@
 hello welcome to the sample application
+I am adding few lines the sample application this will be pushed to master later
